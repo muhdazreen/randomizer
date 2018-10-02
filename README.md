@@ -1,1 +1,2 @@
 # randomizer
+this is readme
